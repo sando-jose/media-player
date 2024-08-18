@@ -54,6 +54,14 @@ h3 {
   margin: 5px 0 0;
 }
 
+h4 {
+  font-size: 15px;
+  text-align: right;
+  font-weight: 400;
+  margin: 10px 10px 0px;
+  opacity: 0.1;
+}
+
 /* Progress Bar */
 .progress-container {
   background: #fff;
