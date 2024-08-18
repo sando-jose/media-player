@@ -1,21 +1,27 @@
+// Remember to add all the constants up here!
+// Music
+
+// Check if Playing
+
+// Play
+
+// Pause
+
+// Play or Pause Event Listener
+
+// Current Song
 
 
-// Play & Pause ----------------------------------- //
+// Previous Song
+
+// Next Song
+
+// On Load - Select First Song
+
+// Update Progress Bar & Time
 
 
-
-// Progress Bar ---------------------------------- //
-
+// Set Progress Bar
 
 
-// Volume Controls --------------------------- //
-
-
-
-// Change Playback Speed -------------------- //
-
-
-
-// Fullscreen ------------------------------- //
-
-
+// Event Listeners
