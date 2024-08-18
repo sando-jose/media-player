@@ -66,6 +66,8 @@ function playSong() {
   music.play();
 }
 
+music.volume = 0.33
+
 // Pause
 function pauseSong() {
   isPlaying = false;
