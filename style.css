@@ -68,13 +68,13 @@ h3 {
   background: black;
   border-radius: 5px;
   height: 100%;
-  width: 70%;
+  width: 40%;
   transition: width 0.1s linear;
 }
 
 .duration-wrapper {
   position: relative;
-  border-radius: -25px;
+  top: -25px;
   display: flex;
   justify-content: space-between;
 }
