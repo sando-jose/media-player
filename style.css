@@ -54,11 +54,13 @@ h3 {
   margin: 5px 0 0;
 }
 
+/* name */
+
 h4 {
   font-size: 15px;
   text-align: right;
   font-weight: 400;
-  margin: 10px 10px 0px;
+  margin: 10px 20px 0px;
   opacity: 0.1;
 }
 
