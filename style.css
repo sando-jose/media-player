@@ -65,7 +65,7 @@ h3 {
 }
 
 .progress {
-  background: black;
+  background: rgb(39, 39, 39);
   border-radius: 5px;
   height: 100%;
   width: 40%;
@@ -78,6 +78,27 @@ h3 {
   display: flex;
   justify-content: space-between;
 }
+
+/* Controls */
+.player-controls {
+  position: relative;
+  top: -15px;
+  left: 120px;
+  width: 200px;
+}
+
+.fas {
+  font-size: 30px;
+  color: gray;
+  margin-right: 30px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fas:hover {
+  filter:brightness(70%);
+}
+
 
 /* Media Query: iPhone (Vertical) */
 @media screen and (max-width: 376px) {
